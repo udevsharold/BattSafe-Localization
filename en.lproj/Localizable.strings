@@ -1,0 +1,28 @@
+//translated by [insert you name here to be credited]
+
+//=====================Notification=====================
+"NOTI_MESSAGE" = "Stopped charging at %d%%";
+"NOTI_CHARGE_NOW" = "Charge Now";
+
+
+//=====================Preferences=====================
+"TWEAK" = "Tweak";
+"TWEAK_FOOTER" = "No respring is required for all changes made.";
+"ENABLED" = "Enabled";
+"SHOW_NOTIFICATION" = "Notification";
+"SHOW_NOTIFICATION_FOOTER" = "Notify when max charge level is reached.";
+"MAX_CHARGE_LEVEL" = "Max Charge Level";
+"MAX_CHARGE_LEVEL_FOOTER" = "Set maximum charging level (%). Default is 80%.";
+
+"DEVELOPMENT" = "Development";
+"SUPPORT" = "Support Development";
+"CONTACT" = "Contact";
+"TWITTER" = "Twitter";
+"REDDIT" = "Reddit";
+"FOOTER_CREATED" = "Created by udevs";
+"FOOTER_CREDITS" = "Special thanks\n%@";
+
+"RESPRING" = "Respring";
+"RESPRING_MESSAGE" = "Respring is not necessary, respring anyway?";
+"ANSWER_YES" = "Yes";
+"ANSWER_NO" = "No";
