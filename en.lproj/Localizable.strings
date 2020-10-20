@@ -26,3 +26,6 @@
 "RESPRING_MESSAGE" = "Respring is not necessary, respring anyway?";
 "ANSWER_YES" = "Yes";
 "ANSWER_NO" = "No";
+
+"OVERSHOOTING_MESSAGE" = "Sometimes you'll notice that the charged percentage overshooted by around 1-2% more than the preferred max charge level and that's perfectly normal. iOS occasionally decides not to update the percentage until the next cycle, especially when the device is in very deep sleep. Moreover, the pecentage that shows is just an estimation by iOS itself and is not absolute accurate numerically. However, BattSafe has already trying its best in intelligently mitigating this.";
+"ANSWER_GOT_IT" = "Got it";

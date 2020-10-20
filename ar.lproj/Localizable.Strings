@@ -1,0 +1,28 @@
+//translated by peterfectionn
+
+//=====================Notification=====================
+"NOTI_MESSAGE" = "%d%% لقد تم توقيف الشحن على مستوى";
+"NOTI_CHARGE_NOW" = "أشحن الآن";
+
+
+//=====================Preferences=====================
+"TWEAK" = "Tweak";
+"TWEAK_FOOTER" = "ليس من الضروري إعادة تشغيل الـSpringboard بعد التغيير";
+"ENABLED" = "تشغيل";
+"SHOW_NOTIFICATION" = "تنبيه";
+"SHOW_NOTIFICATION_FOOTER" = "التنبيه عند الوصول إلى مستوى الشحن المحدّد";
+"MAX_CHARGE_LEVEL" = "أعلى مستوى شحن";
+"MAX_CHARGE_LEVEL_FOOTER" = "قم بتحديد أعلى مستوى للشحن بالمئة (٪؜). الأصلي هو ٨٠٪؜.";
+
+"DEVELOPMENT" = "البرمجة";
+"SUPPORT" = "أدعم البرمجة";
+"CONTACT" = "التواصل";
+"TWITTER" = "تويتر";
+"REDDIT" = "ريدت";
+"FOOTER_CREATED" = "صنعه udevs";
+"FOOTER_CREDITS" = "\n%@شكر خاص لـ ";
+
+"RESPRING" = "إعادة تشغيل الـSpringboard";
+"RESPRING_MESSAGE" = "إعادة تشغيل الـSpringboard ليس ضروري. هل تريد فعله على أي حال؟";
+"ANSWER_YES" = "نعم";
+"ANSWER_NO" = "لا";
