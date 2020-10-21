@@ -6,3 +6,5 @@ More info on locale ISO code: https://developer.apple.com/library/archive/docume
 Change the string accordingly in Localizable.strings files. For example, localization in Spanish (es.lproj):
 
 "DEVELOPMENT" = "Desarrollo";
+
+NOTE: Do not save/convert it to binary/text plist file, save it as plain text.
