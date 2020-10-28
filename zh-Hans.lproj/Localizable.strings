@@ -8,10 +8,10 @@
 //=====================Preferences=====================
 "TWEAK" = "插件";
 "TWEAK_FOOTER" = "所有设置修改无需注销。";
-"ENABLED" = "已开启";
-"SHOW_NOTIFICATION" = "通知";
-"SHOW_NOTIFICATION_FOOTER" = "达到设置最高电量后停止充电。";
-"MAX_CHARGE_LEVEL" = "充电最高电量";
+"ENABLED" = "开启";
+"SHOW_NOTIFICATION" = "推送通知";
+"SHOW_NOTIFICATION_FOOTER" = "冲电停止到设置的最高电量后通知我。";
+"MAX_CHARGE_LEVEL" = "最高电量";
 "MAX_CHARGE_LEVEL_FOOTER" = "设置最高充电电量 (%)，默认为 80% 。";
 
 "DEVELOPMENT" = "插件开发";
